@@ -6,7 +6,7 @@ Naive Bayes is a supervised classification technique based on Bayes' Theorem wit
 
 It is a popular technique for text categorization, judging documents as belonging to one category or the other (such as spam or legitimate, sports or politics, etc.) with word frequencies as features.
 
-*Goal:**
+* Goal:*
 
 Previously unseen records should be assigned a class as accurately as possible
 
@@ -20,4 +20,5 @@ and a bunch of emails classified as ['ham']
 * This information is used to train the model and its prediction is then tested with a sample input
 
 * Python Libraries used:*  
+
 pandas, numpy, io, os, CountVectorizer and MultinomialNB from sklearn
