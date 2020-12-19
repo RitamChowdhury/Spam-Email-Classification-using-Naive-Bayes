@@ -1,2 +1,2 @@
-* linguist-vendored
+email/* linguist-vendored
 *.py linguist-vendored=false
